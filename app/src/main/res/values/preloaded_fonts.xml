@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alegreya_sc_italic</item>
+        <item>@font/average_sans</item>
+        <item>@font/flamenco_light</item>
+        <item>@font/source_sans_pro_light</item>
+    </array>
+</resources>
